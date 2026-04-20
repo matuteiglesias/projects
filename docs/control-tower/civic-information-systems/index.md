@@ -1,12 +1,12 @@
 ---
 title: "Civic Information Systems"
-sidebar_position: 11
+sidebar_position: 14
 description: "Frente de proyectos orientado a construir infraestructura cívica de datos, análisis territorial y superficies públicas sobre información social y estatal."
 ---
 
 # Civic Information Systems
 
-**Group ID:** `K`
+**Group ID:** `N`
 
 ## One-liner
 
@@ -138,14 +138,14 @@ Conjunto de herramientas geoespaciales reutilizables para análisis, transformac
 
 Este proyecto agrupa utilidades geográficas o geoespaciales que sirven como caja de herramientas para distintos pipelines de mapas, territorio y datos públicos. Su motivación es evitar reimplementar funciones espaciales dispersas y contar con módulos reutilizables para transformación, validación o renderizado territorial. Sigue activo porque varios proyectos dependen de capacidades geoespaciales compartidas. El progreso real consiste en ampliar cobertura útil, mejorar robustez y volver más fácil el reuso de estas herramientas entre proyectos.
 
-## Upwork Outreach Automation, Automate bidding
+## Elecciones ARG / Peronómetro
 
-**Project ID:** `67`
+**Project ID:** `54`
 
 **One-liner**
 
-Automatización para sostener outreach, seguimiento o bidding en plataformas de trabajo freelance.
+Pipeline electoral para seguimiento, análisis y superficies experimentales sobre resultados y dinámica política argentina.
 
 **Context**
 
-Este proyecto busca sistematizar parte del trabajo de explorar oportunidades y hacer outreach en Upwork u otras plataformas similares, reduciendo carga manual repetitiva. Existe para convertir una tarea muchas veces mecánica y dispersa en un flujo más gobernable, trazable y escalable. Sigue activo porque la generación de oportunidades freelance puede beneficiarse mucho de automatización prudente. El progreso real consiste en mejorar cobertura, personalización razonable y seguimiento de acciones sin volver el sistema frágil o genérico en exceso.
+Este proyecto reúne herramientas y experimentos ligados al seguimiento electoral argentino, incluyendo pipelines de datos, nowcasting, consultas de resultados y superficies de análisis o interpretación política. Su motivación es convertir información electoral cambiante en un sistema más gobernable para monitoreo, análisis y eventual comunicación pública. Sigue activo porque combina interés analítico, valor político y una buena oportunidad para desplegar capacidades técnicas sobre datos en tiempo real o semiestructurados. El progreso real se ve cuando los datos fluyen con mayor robustez, las superficies analíticas son más útiles y el sistema produce lecturas más claras o accionables.

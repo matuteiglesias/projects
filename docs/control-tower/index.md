@@ -40,7 +40,7 @@ Esta documentación fue generada automáticamente a partir de un CSV estático c
 
 - [Research & Academic Pipelines](./research-and-academic-pipelines/index.md)  
   Frente de proyectos orientado a convertir investigación, análisis y producción académica en pipelines reutilizables y superficies publicables.  
-  Group ID: `H` | Projects: 4 | Subgroups: 0
+  Group ID: `H` | Projects: 2 | Subgroups: 0
 
 - [Communication & CRM Systems](./communication-and-crm-systems/index.md)  
   Frente de proyectos dedicado a organizar relaciones, contactos, seguimiento y acción sostenida sobre redes humanas.  
@@ -50,10 +50,22 @@ Esta documentación fue generada automáticamente a partir de un CSV estático c
   Frente de proyectos orientado a empaquetar capacidades, playbooks y sistemas de automatización con potencial más productivo o comercial.  
   Group ID: `J` | Projects: 4 | Subgroups: 0
 
+- [Incubator](./incubator/index.md)  
+  Frente de ideas exploratorias, spinoffs y apuestas de producto con potencial técnico o comercial.  
+  Group ID: `K` | Projects: 12 | Subgroups: 0
+
+- [Content & Publishing](./content-and-publishing/index.md)  
+  Frente orientado a convertir datos, análisis y activos existentes en publicaciones y documentación sostenibles.  
+  Group ID: `L` | Projects: 3 | Subgroups: 0
+
+- [Educational Systems](./educational-systems/index.md)  
+  Frente de proyectos orientado a generar materiales, plataformas y superficies útiles para enseñanza aplicada.  
+  Group ID: `M` | Projects: 2 | Subgroups: 0
+
 - [Civic Information Systems](./civic-information-systems/index.md)  
   Frente de proyectos orientado a construir infraestructura cívica de datos, análisis territorial y superficies públicas sobre información social y estatal.  
-  Group ID: `K` | Projects: 11 | Subgroups: 0
+  Group ID: `N` | Projects: 11 | Subgroups: 0
 
 - [Lifestyle and Development](./lifestyle-and-development/index.md)  
   Frente de proyectos orientado a sostener operación personal, bienestar, reflexión y desarrollo cotidiano con más estructura.  
-  Group ID: `L` | Projects: 5 | Subgroups: 3
+  Group ID: `O` | Projects: 5 | Subgroups: 3

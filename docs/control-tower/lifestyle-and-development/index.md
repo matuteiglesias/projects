@@ -1,12 +1,12 @@
 ---
 title: "Lifestyle and Development"
-sidebar_position: 12
+sidebar_position: 15
 description: "Frente de proyectos orientado a sostener operación personal, bienestar, reflexión y desarrollo cotidiano con más estructura."
 ---
 
 # Lifestyle and Development
 
-**Group ID:** `L`
+**Group ID:** `O`
 
 ## One-liner
 
@@ -78,17 +78,17 @@ Superficie de tracking para registrar medidas y variables relevantes de salud o 
 
 Este proyecto se centra en una hoja o sistema de seguimiento donde registrar medidas y otras variables de salud de manera más estable. Existe para pasar de observaciones sueltas a una base mínima de datos personales que permita notar tendencias y sostener decisiones más informadas. Sigue activo porque el seguimiento simple pero constante puede mejorar mucho capacidad de observación sin exigir sistemas complejos. El progreso real consiste en registrar con mayor constancia, mejorar claridad de las variables y usar los datos para revisar mejor tu estado y tus decisiones.
 
-### Reflection and Retrospective Framework - governance
+### Fitness Tracker & Routine Planning
 
-**Project ID:** `93`
+**Project ID:** `96`
 
 **One-liner**
 
-Framework para gobernar reflexión, retrospectivas y aprendizaje a partir de sesiones y períodos de trabajo.
+Sistema para registrar actividad física y planificar rutinas de entrenamiento con más continuidad.
 
 **Context**
 
-Este proyecto define una estructura para hacer retrospectivas y reflexión de manera más sistemática, en lugar de dejar esos cierres librados a impulsos o a balance difuso. Su motivación es convertir experiencia vivida en aprendizaje y gobierno operativo, conectando sesiones, semanas o ciclos con decisiones futuras. Sigue activo porque la reflexión bien gobernada mejora reentrada, priorización y calidad de ajuste del sistema personal. El progreso real se ve cuando las retrospectivas son más breves pero más útiles, y cuando realmente informan decisiones posteriores.
+Este proyecto busca combinar seguimiento de entrenamiento con planificación de rutinas para sostener mejor el trabajo físico en el tiempo. Existe para que el entrenamiento no dependa solo de memoria o motivación del momento, y para permitir cierta observación de progreso y consistencia. Sigue activo porque la actividad física es una pieza importante de tu infraestructura personal y requiere algo de soporte operativo. El progreso real consiste en registrar mejor sesiones, planificar con más realismo y usar esa información para ajustar rutinas de manera útil.
 
 ## Reflection Stack
 
@@ -102,14 +102,14 @@ Este subgrupo reúne piezas que ayudan a observar progreso personal, especialmen
 
 ### Projects
 
-### Fitness Tracker & Routine Planning
+### Reflection and Retrospective Framework - governance
 
-**Project ID:** `96`
+**Project ID:** `93`
 
 **One-liner**
 
-Sistema para registrar actividad física y planificar rutinas de entrenamiento con más continuidad.
+Framework para gobernar reflexión, retrospectivas y aprendizaje a partir de sesiones y períodos de trabajo.
 
 **Context**
 
-Este proyecto busca combinar seguimiento de entrenamiento con planificación de rutinas para sostener mejor el trabajo físico en el tiempo. Existe para que el entrenamiento no dependa solo de memoria o motivación del momento, y para permitir cierta observación de progreso y consistencia. Sigue activo porque la actividad física es una pieza importante de tu infraestructura personal y requiere algo de soporte operativo. El progreso real consiste en registrar mejor sesiones, planificar con más realismo y usar esa información para ajustar rutinas de manera útil.
+Este proyecto define una estructura para hacer retrospectivas y reflexión de manera más sistemática, en lugar de dejar esos cierres librados a impulsos o a balance difuso. Su motivación es convertir experiencia vivida en aprendizaje y gobierno operativo, conectando sesiones, semanas o ciclos con decisiones futuras. Sigue activo porque la reflexión bien gobernada mejora reentrada, priorización y calidad de ajuste del sistema personal. El progreso real se ve cuando las retrospectivas son más breves pero más útiles, y cuando realmente informan decisiones posteriores.
