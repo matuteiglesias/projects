@@ -1,0 +1,8 @@
+{
+  "label": "Public Presence",
+  "position": 5,
+  "link": {
+    "type": "doc",
+    "id": "control-tower/public-presence/index"
+  }
+}

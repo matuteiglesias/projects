@@ -1,0 +1,8 @@
+{
+  "label": "Job Search",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "control-tower/job-search/index"
+  }
+}
