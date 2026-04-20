@@ -56,7 +56,7 @@ const config: Config = {
       },
       items: [
         {
-          to: '/intro',
+          to: '/',
           label: 'Home',
           position: 'left',
         },
@@ -79,7 +79,7 @@ const config: Config = {
         {
           title: 'Docs',
           items: [
-            {label: 'Home', to: '/intro'},
+            {label: 'Home', to: '/'},
             {label: 'Control Tower', to: '/control-tower'},
           ],
         },

@@ -1,41 +1,64 @@
-# Website
+# Projects
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This site publishes a navigable documentation surface for the portfolio and Control Tower context.
 
-## Installation
+## Stack
+
+- Docusaurus
+- Markdown docs generated from a CSV snapshot
+- Static deployment on Vercel
+
+## Local development
+
+Install dependencies:
 
 ```bash
-yarn
+npm install
 ```
 
-## Local Development
+Run the dev server:
 
 ```bash
-yarn start
+npm run start
 ```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
 ## Build
 
 ```bash
-yarn build
+npm run build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Generated docs
+
+Project context docs are materialized under:
+
+```text
+docs/control-tower/
+```
+
+These files are generated from a CSV snapshot using:
+
+```bash
+python build_control_tower_docs.py --csv portfolio_context.csv --docs-root docs
+```
 
 ## Deployment
 
-Using SSH:
+Production URL:
 
-```bash
-USE_SSH=true yarn deploy
+```text
+https://projects.matuteiglesias.link
 ```
 
-Not using SSH:
+Recommended deployment target:
 
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
+* Vercel
+* Framework preset: Docusaurus
+* Build command: `npm run build`
+* Output directory: `build`
+
+## Repository
+
+```text
+https://github.com/matuteiglesias/projects
 ```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
