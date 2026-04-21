@@ -78,6 +78,18 @@ Sistema para clasificar, priorizar y encauzar correos dentro de un flujo operati
 
 Este proyecto organiza el tratamiento del email como un problema de triage operativo y no solo de lectura manual de bandeja. Busca clasificar correos, distinguir prioridades, enrutar acciones y convertir mensajes en tareas, señales o artefactos que puedan procesarse mejor dentro de tu ecosistema. Sigue siendo importante porque el email es una fuente constante de inputs que, si no se gobiernan, contaminan foco y generan reactividad. El progreso real se ve cuando el sistema clasifica con criterios más útiles, reduce fricción en la bandeja y facilita convertir correos en acciones o decisiones bien encaminadas.
 
+### Capture Manual
+
+**Project ID:** `92`
+
+**One-liner**
+
+Manual de captura que define cómo convertir discurso o pensamiento en artefactos operativos reutilizables.
+
+**Context**
+
+Este proyecto es el manual que define modos de captura, routing y transformación de discurso humano en artefactos más útiles para memoria, coordinación y trabajo downstream. Existe para dar una gramática explícita a sesiones de captura y permitir que asistentes o sistemas interpreten mejor qué hacer con ese material. Sigue activo porque ya mostró valor inmediato como capa transversal de intake y packaging cognitivo. El progreso real se ve cuando el manual se vuelve más claro, más fácil de usar y más efectivo para producir artefactos consistentes a partir de capturas.
+
 ## Runtime Orchestration
 
 **One-liner**
@@ -113,3 +125,15 @@ Capa de gobernanza para automatizaciones disparadas por cron, systemd y otros me
 **Context**
 
 Este proyecto se ocupa de ordenar y gobernar la ejecución programada de scripts, servicios y automatizaciones disparadas por cron, systemd u otros mecanismos de scheduling del sistema. Existe para que la automatización de bajo nivel no quede dispersa, opaca o difícil de mantener, y para asegurar que cada proceso tenga reglas, observabilidad y propósito claros. Sigue activo porque muchas capacidades útiles de tu stack dependen de ejecución periódica confiable. El progreso real se ve cuando las tareas programadas están mejor documentadas, son más robustas, tienen mejores controles y se integran más limpiamente con el resto del ecosistema.
+
+### Operations Manual
+
+**Project ID:** `95`
+
+**One-liner**
+
+Manual operativo que fija reglas, modos y cierres para trabajar con mayor gobernanza y continuidad.
+
+**Context**
+
+Este proyecto es el manual de operaciones que describe reglas, modos de trabajo, cierres, handoffs y criterios operativos para sostener ejecución con menor deriva. Existe para convertir buenas prácticas tácitas en una superficie explícita que pueda orientar tanto trabajo propio como trabajo asistido por agentes. Sigue activo porque cumple una función transversal de gobernanza sobre muchos otros proyectos y frentes. El progreso real consiste en volver el manual más claro, más aplicado a casos reales y más útil como guía operativa cotidiana.

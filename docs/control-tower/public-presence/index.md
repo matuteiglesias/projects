@@ -72,11 +72,11 @@ Este proyecto organiza el flujo que va desde capturas, notas o materiales crudos
 
 **One-liner**
 
-Exploración de una app para preguntas y respuestas estudiantiles como superficie útil de apoyo académico.
+Aplicación ya desplegada que responde consultas estudiantiles sobre ejercicios usando un tutor basado en modelo de lenguaje.
 
 **Context**
 
-Este proyecto evalúa la posibilidad de construir una aplicación orientada a canalizar preguntas y respuestas de estudiantes de forma más ordenada y útil que los intercambios improvisados. Existe para pensar una herramienta que mejore soporte, acceso a respuestas y reutilización de conocimiento en contextos docentes o institucionales. Sigue activo porque responde a un problema real de escalabilidad y continuidad en la interacción con estudiantes, aunque todavía pueda estar en fase exploratoria. El progreso real consiste en precisar bien el caso de uso, validar si la app resuelve un problema concreto y definir una versión mínima que aporte valor real.
+Este proyecto es una aplicación ya deployed, creada originalmente para la materia Algoritmos 3 de la carrera de Computación de la UBA, aunque su infraestructura puede adaptarse a otras materias cambiando el contenido. La app muestra ejercicios o páginas de guía y permite que estudiantes hagan consultas debajo de cada uno; luego un modelo de lenguaje recibe la consulta junto con el ejercicio y actúa como tutor, produciendo una respuesta. Sigue activa porque ya funciona, ya fue usada en un curso y además abre próximos pasos valiosos como aumentar adopción, difundirla y explotar o abrir la base de datos de interacciones recogidas. El progreso real se ve cuando aumenta su uso, mejora la experiencia de consulta y se aprovechan mejor los datos ya generados.
 
 ## Portfolio site maintenance
 

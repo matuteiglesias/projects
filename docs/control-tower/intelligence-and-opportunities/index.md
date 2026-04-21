@@ -36,11 +36,11 @@ Este proyecto define una capa de servicio para pedir, ejecutar y devolver resúm
 
 **One-liner**
 
-Monorepo para monitorear medios, clasificar contenidos y sostener pipelines de observación y análisis.
+Monorepo de monitoreo de medios que combina ingesta de noticias, frontend publicado y posibles derivados de producto o distribución.
 
 **Context**
 
-Este proyecto agrupa herramientas y pipelines orientados al monitoreo de medios y al procesamiento de contenido textual para seguimiento temático, clasificación y extracción de señales. Su motivación es contar con una base más robusta para observar cobertura, detectar patrones y estructurar información de medios dentro de un sistema mantenible. Sigue activo porque el monitoreo de medios alimenta inteligencia externa y puede conectarse con clasificación, NER, retrieval y reporting. El progreso real consiste en tener pipelines más estables, mejor arquitectura interna, migraciones limpias y outputs más claros para análisis o seguimiento.
+Este proyecto es un monorepo de media monitoring con varias capas: una de ingesta para recolectar noticias, otra de frontend donde se muestran las últimas noticias y una posible línea futura de derivación comercial o distributiva. En su estado actual, el sistema ya funciona y está online como portal utilizable. Sigue activo porque ya entrega valor como superficie viva y además podría abrir dos caminos futuros: por un lado, convertirse en un portal de noticias propio; por otro, empaquetarse parcial o totalmente para que terceros lo usen. El progreso real se ve cuando mejora la robustez de ingesta, la utilidad del frontend y la claridad sobre cuál de esos caminos de producto o distribución conviene empujar.
 
 ## Institutional Monitoring (MSEG, Norms, Legs)
 

@@ -24,11 +24,11 @@ Este grupo reúne proyectos ligados a tu trabajo institucional en FCEN y en la L
 
 **One-liner**
 
-Sistema para organizar identidad, territorio y señales operativas dentro del frente FCEN.
+Índice no duplicado de personas de Exactas construido a partir de múltiples fuentes.
 
 **Context**
 
-Este proyecto estructura información y reportes ligados a identidad, entorno y capacidad de acción dentro del frente FCEN, con foco en volver más consultable y accionable un universo de datos que de otro modo queda disperso. Su motivación es apoyar trabajo político e institucional mediante superficies que permitan ubicar personas, contextos y prioridades con mayor claridad. Sigue activo porque constituye una base operativa importante para tareas de seguimiento, intervención y lectura del terreno. El progreso real consiste en mejorar calidad de datos, reportes humanos y capacidad de generar salidas útiles para decisiones concretas.
+Este proyecto construye un índice de personas de la Facultad de Ciencias Exactas y Naturales a partir de información reunida desde distintas fuentes, resolviendo duplicados y dejando una fila única por persona. Existe para dar una base canónica y operativa sobre la población humana del frente FCEN, en vez de trabajar con registros dispersos, repetidos o inconsistentes. Sigue activo porque esa base sirve como infraestructura para trabajo institucional, inteligencia de personas y distintas superficies downstream. El progreso real consiste en mejorar cobertura de fuentes, deduplicación, calidad de los registros y utilidad práctica del índice resultante.
 
 ## people_intel
 
@@ -60,11 +60,11 @@ Este proyecto combina una capa de procesamiento de contenidos y una superficie n
 
 **One-liner**
 
-Publicador de materiales o manuales que convierte artefactos institucionales en superficies accesibles y reutilizables.
+Manual de una agrupación política que documenta identidad, valores, contexto y onboarding básico.
 
 **Context**
 
-Este proyecto busca tomar manuales, documentos o artefactos de trabajo y publicarlos en una forma más ordenada, navegable y mantenible, especialmente para contextos institucionales o de coordinación. Existe para evitar que materiales valiosos queden encerrados en archivos sueltos y para facilitar circulación, consulta y reuso. Sigue activo porque la publicación cuidada de manuales o documentos es una pieza importante de continuidad operativa e institucional. El progreso real se ve cuando el flujo de publicación se simplifica, las salidas son más claras y los materiales quedan realmente disponibles para uso sostenido.
+Este proyecto reúne y publica documentación de una agrupación política en la que participás, con foco en describir su identidad, sus valores, su contexto y algunos elementos de onboarding u orientación interna. Existe para volver más explícito y transmisible un marco político-organizativo que de otro modo quedaría distribuido en conversaciones o supuestos. Sigue activo porque puede ayudar a alinear identidad, facilitar incorporación y sostener memoria política del espacio. El progreso real se ve cuando el manual gana claridad, cobertura y utilidad real para orientar a personas dentro o cerca de la agrupación.
 
 ## Data Science Career Commission Tracker
 
@@ -72,8 +72,8 @@ Este proyecto busca tomar manuales, documentos o artefactos de trabajo y publica
 
 **One-liner**
 
-Tracker para seguir temas, decisiones y frentes de trabajo de la Comisión de Carrera de Ciencias de Datos.
+Planilla de observabilidad semántica sobre líneas de trabajo de la Comisión de Carrera de Ciencias de Datos.
 
 **Context**
 
-Este proyecto organiza el seguimiento de asuntos, tareas, decisiones y líneas de trabajo vinculadas a la Comisión de Carrera de la Licenciatura en Ciencias de Datos. Su motivación es dar estructura a un frente institucional donde suele haber múltiples temas simultáneos, continuidad incompleta y necesidad de memoria operativa. Sigue activo porque te permite sostener mejor tu intervención en la comisión y no perder de vista asuntos abiertos, avances y prioridades. El progreso real consiste en tener mejor trazabilidad de temas, superficies más claras de seguimiento y una herramienta que facilite preparar reuniones o acciones concretas.
+Este proyecto es una Google Sheet que mapea y da observabilidad a las líneas de trabajo de la Comisión de Carrera de Ciencias de Datos. La estructura organiza aproximadamente 35 líneas de trabajo mediante columnas como núcleo, título, dueño, descripción corta y links a recursos asociados. Los núcleos incluyen gobernanza, política de datos, comunicación, gestión académica, materias y contenidos, tesis, trabajos finales y tutores, y vinculación, extensión y graduados; mientras que los dueños posibles son secretaría o dirección, comisión de carrera, docentes, estudiantes o graduados. Sigue activo porque funciona como mapa semántico y superficie de seguimiento de áreas institucionales relevantes. El progreso real consiste en mejorar cobertura, claridad de las líneas, calidad de los links y utilidad de la hoja como instrumento de observación y coordinación.

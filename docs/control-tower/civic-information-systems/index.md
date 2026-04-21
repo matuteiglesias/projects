@@ -72,11 +72,11 @@ Este proyecto se enfoca en resolver la fricción técnica y metodológica de tra
 
 **One-liner**
 
-Herramienta o sistema orientado a trabajo con encuestas de hogares y sus estructuras operativas.
+Repositorio de modelos de machine learning sobre EPH para predecir ingresos y otras variables de personas y hogares.
 
 **Context**
 
-Este proyecto gira en torno a una superficie para trabajar con encuestas de hogares, ya sea en su lógica de extracción, modelado, revisión o explotación más operativa. Existe para volver más tratable un tipo de dato central para análisis social y económico, evitando manejo demasiado artesanal de estructuras complejas. Sigue activo porque dialoga con varios frentes de datos públicos, modelado y armonización. El progreso real se ve cuando la herramienta facilita mejor el trabajo con encuestas, reduce fricción y produce salidas más claras para análisis posterior.
+Este proyecto reúne clasificadores y regresores entrenados sobre la Encuesta Permanente de Hogares para predecir ingresos y otras variables relevantes de personas y hogares. Existe para explotar la EPH como base de modelado y generar capacidades predictivas útiles sobre variables socioeconómicas. Sigue activo porque combina valor metodológico, potencial analítico y conexión con otros frentes de datos públicos y pobreza. El progreso real se ve cuando mejoran los modelos, se clarifican mejor los targets y outputs, y el repositorio ofrece resultados más sólidos y reutilizables.
 
 ## Canastas Indec
 
@@ -144,8 +144,8 @@ Este proyecto agrupa utilidades geográficas o geoespaciales que sirven como caj
 
 **One-liner**
 
-Pipeline electoral para seguimiento, análisis y superficies experimentales sobre resultados y dinámica política argentina.
+Visualizador electoral que compara desempeños de fuerzas políticas entre elecciones mediante mapas superpuestos.
 
 **Context**
 
-Este proyecto reúne herramientas y experimentos ligados al seguimiento electoral argentino, incluyendo pipelines de datos, nowcasting, consultas de resultados y superficies de análisis o interpretación política. Su motivación es convertir información electoral cambiante en un sistema más gobernable para monitoreo, análisis y eventual comunicación pública. Sigue activo porque combina interés analítico, valor político y una buena oportunidad para desplegar capacidades técnicas sobre datos en tiempo real o semiestructurados. El progreso real se ve cuando los datos fluyen con mayor robustez, las superficies analíticas son más útiles y el sistema produce lecturas más claras o accionables.
+Este proyecto es un visualizador de información electoral orientado a comparar el desempeño de distintas fuerzas en distintas elecciones usando un mapa con un deslizador de superposición de izquierda a derecha. La idea es poder poner una fuerza o elección por encima de otra y explorar visualmente diferencias territoriales de manera directa. Existe para convertir datos electorales en una superficie comparativa más intuitiva y expresiva que una tabla estática. Sigue activo porque tiene valor analítico, comunicacional y cívico como producto de datos. El progreso real consiste en mejorar datasets, comparaciones disponibles, robustez del visor y claridad interpretativa del mapa.

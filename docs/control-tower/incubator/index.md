@@ -161,3 +161,15 @@ Automatización para explorar oportunidades en Upwork y asistir el armado o env�
 **Context**
 
 Este proyecto reúne ideas y herramientas para automatizar parte del outreach en Upwork y del proceso de preparar o asistir bids a oportunidades externas. Existe para escalar una tarea repetitiva y aumentar cobertura sin multiplicar en la misma proporción el esfuerzo manual. Sigue activo porque la exploración freelance puede beneficiarse mucho de un pipeline prudente de automatización y seguimiento. El progreso real consiste en mejorar filtros, priorización, preparación de propuestas y control del proceso sin volverlo genérico o frágil.
+
+## Capture Manual Product
+
+**Project ID:** `89`
+
+**One-liner**
+
+Producto basado en el Capture Manual para que usuarios puedan capturar, enrutar y reutilizar pensamiento desde una app.
+
+**Context**
+
+Este proyecto busca convertir el Capture Manual en un producto más directamente usable por terceros, probablemente como una app donde usuarios puedan registrar voz o texto y obtener routing, empaquetado y continuidad operativa. Existe para transformar una capacidad ya útil en una superficie comercializable con valor claro para personas que piensan, planifican o trabajan en movimiento. Sigue activo porque hoy ya tiene una hipótesis técnica y comercial razonable y podría derivar en una fuente de ingresos. El progreso real consiste en definir mejor el producto, validar el flujo principal y construir una primera versión que demuestre valor real a usuarios externos.

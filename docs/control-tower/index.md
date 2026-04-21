@@ -12,7 +12,7 @@ Esta documentación fue generada automáticamente a partir de un CSV estático c
 
 - [Meta-Orchestration & Governance Layer](./meta-orchestration-and-governance-layer/index.md)  
   Capa de sistemas que gobierna, coordina y vuelve operables múltiples proyectos y rutinas de trabajo.  
-  Group ID: `A` | Projects: 6 | Subgroups: 2
+  Group ID: `A` | Projects: 8 | Subgroups: 2
 
 - [Job Search](./job-search/index.md)  
   Frente de proyectos dedicado a explorar oportunidades, sostener procesos de búsqueda y escalar seguimiento laboral.  
@@ -52,7 +52,7 @@ Esta documentación fue generada automáticamente a partir de un CSV estático c
 
 - [Incubator](./incubator/index.md)  
   Frente de ideas exploratorias, spinoffs y apuestas de producto con potencial técnico o comercial.  
-  Group ID: `K` | Projects: 12 | Subgroups: 0
+  Group ID: `K` | Projects: 13 | Subgroups: 0
 
 - [Content & Publishing](./content-and-publishing/index.md)  
   Frente orientado a convertir datos, análisis y activos existentes en publicaciones y documentación sostenibles.  
