@@ -40,7 +40,19 @@ Sandbox experimental para probar ideas tempranas de knowledge base y procesamien
 
 **Context**
 
-Este proyecto funciona como un espacio de exploración y prueba para enfoques de base de conocimiento desarrollados en una etapa temprana de tu ecosistema. Su motivación es conservar, revisar o rescatar primitivas, patrones y decisiones técnicas que pudieron haber sido exploratorias pero todavía útiles. Sigue activo porque sirve como cantera de ideas y como registro de evolución conceptual y técnica de tu stack de conocimiento. El progreso real se ve cuando lográs distinguir mejor qué vale rescatar, qué conviene archivar y qué puede integrarse a sistemas más maduros.
+Compact KB ingest and analysis spine for chat JSONL and related corpora. Provides config, parser, processed-file state, SQLite embedding cache, Chroma integration, CLI wrappers, and run-recorded pipelines for ingest, analysis, and GROBID-based paper processing. Current bottleneck is operational hardening of the canonical ingest path: provider rate limits, store canonicalization, and cleanup of legacy dev-script sediment.
+
+## Digest Engine
+
+**Project ID:** `15`
+
+**One-liner**
+
+Motor para producir digests a partir de eventos, sesiones o materiales estructurados del ecosistema.
+
+**Context**
+
+Digest and bagging pipeline for turning raw conversational logs and session JSONL into traceable Markdown/MDX digests, tag views, and publishable knowledge artifacts. Includes CLI, docs, unitization, pair/tag bag derivation, hydration, indexing, and publishing flows. Currently real but mixed: canonical pipeline code coexists with archived experiments, ad hoc outputs, and path drift, so the next unlock is to define the canonical product boundary and operating path.
 
 ## Session Mining / Clustering
 
@@ -65,18 +77,6 @@ Contratos canónicos para gobernar cómo entra, circula y se transforma el conoc
 **Context**
 
 Este proyecto define reglas, formatos y seams de integración para que distintos componentes de tu capa de conocimiento hablen el mismo idioma. Su motivación es evitar una proliferación de pipelines incompatibles, decisiones locales incoherentes y outputs difíciles de reutilizar. Sigue activo porque tu ecosistema creció lo suficiente como para necesitar contratos explícitos que ordenen inputs, outputs y responsabilidades. El progreso real se ve cuando más componentes respetan esos contratos y la integración entre sistemas de conocimiento requiere menos trabajo ad hoc.
-
-## Digest Engine
-
-**Project ID:** `15`
-
-**One-liner**
-
-Motor para producir digests a partir de eventos, sesiones o materiales estructurados del ecosistema.
-
-**Context**
-
-Este proyecto se encarga de generar resúmenes periódicos o temáticos que condensan actividad, señales o contenidos del sistema en artefactos más legibles. Existe para convertir acumulación de material en una vista sintetizada que sirva para review, seguimiento o publicación interna. Sigue activo porque el digest es una de las salidas más valiosas cuando el volumen de información crece y la lectura directa deja de escalar. El progreso real consiste en separar mejor cómputo y publicación, mejorar calidad del resumen y lograr que los digests sirvan realmente para orientarse o decidir.
 
 ## Media-to-Text Pipeline
 
